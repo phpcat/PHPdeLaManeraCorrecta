@@ -14,31 +14,31 @@ diferències d'enfocament i els seus casos d'ús.
 Aquest és un document actiu i continuarà sent actualitzat amb la informació més útil i exemples a mesura que estiguin
 disponibles.
 
-## Translations
+## Traduccions
 
-_PHP: The Right Way_ is translated into many different languages:
+_PHP: de la Manera Correcta_ s'ha traduït als següents idiomes:
 
-* [English](http://www.phptherightway.com)
-* [Bulgarian](http://bg.phptherightway.com/)
-* [Chinese (Simplified)](http://wulijun.github.com/php-the-right-way)
-* [Chinese (Traditional)](http://laravel-taiwan.github.io/php-the-right-way)
-* [French](http://eilgin.github.io/php-the-right-way/)
-* [German](http://rwetzlmayr.github.io/php-the-right-way/)
-* [Indonesian](http://id.phptherightway.com/)
-* [Italian](http://it.phptherightway.com/)
-* [Japanese](http://ja.phptherightway.com)
-* [Korean](http://modernpug.github.io/php-the-right-way/)
-* [Persian](http://novid.github.io/php-the-right-way/)
-* [Polish](http://pl.phptherightway.com/)
-* [Portuguese](http://br.phptherightway.com/)
-* [Romanian](https://bgui.github.io/php-the-right-way/)
-* [Russian](http://getjump.github.io/ru-php-the-right-way)
-* [Serbian](http://smatejic.github.io/php-the-right-way/)
-* [Slovenian](http://sl.phptherightway.com)
-* [Spanish](http://phpdevenezuela.github.io/php-the-right-way/)
-* [Thai](https://apzentral.github.io/php-the-right-way/)
-* [Turkish](http://hkulekci.github.io/php-the-right-way/)
-* [Ukrainian](http://iflista.github.com/php-the-right-way/)
+* [Anglès](http://www.phptherightway.com)
+* [Búlgar](http://bg.phptherightway.com/)
+* [Xinès (Simplificat)](http://wulijun.github.com/php-the-right-way)
+* [Xinès (Tradicional)](http://laravel-taiwan.github.io/php-the-right-way)
+* [Francès](http://eilgin.github.io/php-the-right-way/)
+* [Alemany](http://rwetzlmayr.github.io/php-the-right-way/)
+* [Indonesi](http://id.phptherightway.com/)
+* [Italià](http://it.phptherightway.com/)
+* [Japonès](http://ja.phptherightway.com)
+* [Coreà](http://wafe.github.io/php-the-right-way/)
+* [Persa](http://novid.github.io/php-the-right-way/)
+* [Polonès](http://pl.phptherightway.com/)
+* [Portuguès](http://br.phptherightway.com/)
+* [Romanès](https://bgui.github.io/php-the-right-way/)
+* [Rus](http://getjump.github.io/ru-php-the-right-way)
+* [Serbi](http://smatejic.github.io/php-the-right-way/)
+* [Eslovè](http://sl.phptherightway.com)
+* [Castellà](http://phpdevenezuela.github.io/php-the-right-way/)
+* [Tailandès](https://apzentral.github.io/php-the-right-way/)
+* [Turc](http://hkulekci.github.io/php-the-right-way/)
+* [Ucraïnès](http://iflista.github.com/php-the-right-way/)
 
 ## How to Contribute
 
