@@ -40,9 +40,9 @@ _PHP: de la Manera Correcta_ s'ha traduït als següents idiomes:
 * [Turc](http://hkulekci.github.io/php-the-right-way/)
 * [Ucraïnès](http://iflista.github.com/php-the-right-way/)
 
-## How to Contribute
+## Com contribuir-hi
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
+Ajudeu-nos a fer d'aquest lloc web el millor recurs per a nous programadors de PHP! [Contribuir a GitHub][1]
 
 ## Spread the Word!
 
