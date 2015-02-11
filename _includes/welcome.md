@@ -1,20 +1,18 @@
-# Welcome
+# Benvingut
 
-There's a lot of outdated information on the Web that leads new PHP users astray,
-propagating bad practices and insecure code. _PHP: The Right Way_ is an easy-to-read,
-quick reference for PHP popular coding standards, links to authoritative tutorials
-around the Web and what the contributors consider to be best practices at the present
-time.
+Hi ha una gran quantitat d'informació no actualitzada a la web que porta als nous usuaris de PHP per mal camí, la
+propagació de males pràctiques i codi insegur. _PHP: The Right Way_ és una eina fàcil de llegir, referència ràpida per
+als estàndards de codificació populars PHP, enllaços a tutorials d'autoritat al voltant de la web i el que els
+contribuents consideren que són les millors pràctiques avui en dia.
 
-_There is no canonical way to use PHP_. This website aims to introduce new PHP
-developers to some topics which they may not discover until it is too late, and aims
-to give seasoned pros some fresh ideas on those topics they've been doing for years
-without ever reconsidering. This website will also not tell you which tools to use, but
-instead offer suggestions for multiple options, when possible explaining the differences
-in approach and use-case.
+_No hi ha una única manera correcta d'utilitzar PHP_. Aquesta web té com a objectiu introduir als programadors PHP
+alguns temes que potser descobreixen quan ja és massa tard i a la vegada donar als professionals experimentats noves
+idees sobre els temes que han estat fent durant anys sense plantejarse el perquè. Aquesta web no et dirà mai que
+utilitzis aquest tipus d'eina o l'altre, però en canvi t'oferirà suggeriments per a múltiples opcions, explicant les
+diferències d'enfocament i els seus casos d'ús.
 
-This is a living document and will continue to be updated with more helpful information
-and examples as they become available.
+Aquest és un document actiu i continuarà sent actualitzat amb la informació més útil i exemples a mesura que estiguin
+disponibles.
 
 ## Translations
 
