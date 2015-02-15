@@ -3,38 +3,35 @@ isChild: true
 anchor:  mac_setup
 ---
 
-## Mac Setup {#mac_setup_title}
+## Configuració per Mac {#mac_setup_title}
 
-OS X comes prepackaged with PHP but it is normally a little behind the latest stable. Mountain Lion has 5.3.10,
-Mavericks has 5.4.17 and Yosemite has 5.5.9, but with PHP 5.6 out that is often not good enough.
+El sistema OS X ve prèviament configurat amb una versió de PHP que no és l'actual. El sistema Mountain Lion ve
+configurat amb PHP 5.3.10, el sistema Mavericks amb la versió 5.4.17 i el sistema Yosemite amb l'versió 5.5.9.
 
-There are multiple ways to install PHP on OS X.
+Hi ha diverses maneres d'instal·lar PHP a l'OS X.
 
-### Install PHP via Homebrew
+### Instal·lar PHP amb Homebrew
 
-[Homebrew] is a powerful package manager for OS X, which can help you install PHP and various extensions easily.
-[Homebrew PHP] is a repository that contains PHP-related "formulae" for Homebrew, and will let you install PHP.
+[Homebrew] és un gestor de paquets per OS X, que et pot ajudar a instal·lar PHP i diverses extensions fàcilment.
+[Homebrew PHP] és un repositori que conté fitxers per Homebrew relacionats amb PHP, i també et permetrà instal·lar PHP.
 
-At this point, you can install `php53`, `php54`, `php55` or `php56` using the `brew install` command, and switch
-between them by modifying your `PATH` variable.
+En aquest punt, pots instal·lar `php53`, `php54`, `php55` o `php56` escrivint la comanda `brew install`, i podràs
+canviar entre les versions modificant la variable `PATH`.
 
-### Install PHP via Macports
+### Instal·lar PHP amb Macports
 
-The [MacPorts] Project is an open-source community initiative to design an
-easy-to-use system for compiling, installing, and upgrading either
-command-line, X11 or Aqua based open-source software on the OS X operating
-system.
+El projecte [MacPorts], és una iniciativa de la comunitat de codi obert per dissenyar un sistema fàcil d'utilitzar,
+instal·lar i actualitzar qualsevol programari de línia d'ordres, X11 o Aqua per al sistema OS X.
 
-MacPorts supports pre-compiled binaries, so you don't need to recompile every
-dependencies from the source tarball files, it saves your life if you don't
-have any package installed on your system.
+MacPorts suporta binaris pre-compilats, per la qual cosa no cal tornar a compilar totes les dependències del codi font
+original, et salvarà la vida si no tens els paquets instal·lats al teu sistema.
 
-At this point, you can install `php53`, `php54`, `php55` or `php56` using the `port install` command, for example:
+En aquest punt, pots instal·lar `php53`, `php54`, `php55` o `php56` escrivint la comanda `port install`, per exemple:
 
     sudo port install php54
     sudo port install php55
 
-And you can run `select` command to switch your active php:
+I pots escriure la comanda `select` per canviar entre les teves versions actives de php:
 
     sudo port select --set php php55
 
