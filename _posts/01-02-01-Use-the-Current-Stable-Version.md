@@ -1,5 +1,5 @@
 ---
-title:   Use the Current Stable Version (5.6)
+title:   Feu servir la versió estable actual (5.6)
 isChild: true
 anchor:  use_the_current_stable_version
 ---
