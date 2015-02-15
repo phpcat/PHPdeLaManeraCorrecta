@@ -44,12 +44,11 @@ _PHP: de la Manera Correcta_ s'ha traduït als següents idiomes:
 
 Ajudeu-nos a fer d'aquest lloc web el millor recurs per a nous programadors de PHP! [Contribuir a GitHub][1]
 
-## Spread the Word!
+## Corre la veu!
 
-_PHP: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP developers
-know where to find good information!
+_PHP: de la Manera Correcta_ té bàners que pots utilitzar al teu lloc web. Mostra el teu suport, i deixa que els nous desenvolupadors de PHP sàpiguen on trobar una bona informació!
 
-[See Banner Images][2]
+[Secció amb els bàners][2]
 
 [1]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
 [2]: /banners.html
