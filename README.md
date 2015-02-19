@@ -1,4 +1,13 @@
-# PHP: The Right Way
+# PHP: De la manera Correcta
+
+### Projecte de traducció del web PHP: The Right Way
+
+## Com participar-hi?
+
+Els apartats pendents de traduir els trobareu en [aquesta plana](https://github.com/phpcat/PHPdeLaManeraCorrecta/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee). Penseu de ser expeditius: Assigneu-vos el issue de l'apartat que voleu traduir i que no estigui assignat a ningú, traduïu l'apartat en qüestió, feu push i tanqueu el issue. 
+
+Si no formeu part del grup del projecte de traducció demaneu formar-ne part creant un issue en aquest projecte, o feu un fork i un pull request.
+
 
 ## Overview
 
