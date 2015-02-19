@@ -45,7 +45,7 @@ I pots escriure la comanda `select` per canviar entre les teves versions actives
 
 Una altra opció que et deixa tenir control sobre la versió de PHP que s'instal·la, és [compilar-la tu mateix][mac-
 compile]. En aquest cas, assegura't d'haver instal·lat qualsevol [Xcode][xcode-gcc-substitution] o substitut d'Apple
-"Eines de línia d'ordres per XCode" descarregables des del Centre de desenvolupadors d'Apple.
+["Eines de línia d'ordres per XCode"] descarregables des del Centre de desenvolupadors d'Apple.
 
 ### Instal·ladors Tot-en-Un
 
@@ -61,6 +61,6 @@ ofereixen.
 [phpbrew]: https://github.com/phpbrew/phpbrew
 [mac-compile]: http://php.net/install.macosx.compile
 [xcode-gcc-substitution]: https://github.com/kennethreitz/osx-gcc-installer
-["Command Line Tools for XCode"]: https://developer.apple.com/downloads
+["Eines de línia d'ordres per XCode"]: https://developer.apple.com/downloads
 [mamp-downloads]: http://www.mamp.info/en/downloads/
 [xampp]: http://www.apachefriends.org/en/xampp.html
