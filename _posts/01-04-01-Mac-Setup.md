@@ -36,22 +36,23 @@ I pots escriure la comanda `select` per canviar entre les teves versions actives
 
     sudo port select --set php php55
 
-### Install PHP via phpbrew
+### Instal·lar PHP amb phpbrew
 
-[phpbrew] is a tool for installing and managing multiple PHP versions. This can be really useful if two different
-applications/projects require different versions of PHP, and you are not using virtual machines.
+[phpbrew] és una eina per a la instal·lació i gestió de múltiples versions de PHP. Això pot ser molt útil si dos
+[aplicacions / projectes diferents, requereixen diferents versions de PHP, i no s'estan utilitzant màquines virtuals.
 
-### Compile from Source
+### Compilar des del codi font
 
-Another option that gives you control over the version of PHP you install, is to [compile it yourself][mac-compile].
-In that case be sure to have installed either [Xcode][xcode-gcc-substitution] or Apple's substitute
-["Command Line Tools for XCode"] downloadable from Apple's Mac Developer Center.
+Una altra opció que et deixa tenir control sobre la versió de PHP que s'instal·la, és [compilar-la tu mateix][mac-
+compile]. En aquest cas, assegura't d'haver instal·lat qualsevol [Xcode][xcode-gcc-substitution] o substitut d'Apple
+"Eines de línia d'ordres per XCode" descarregables des del Centre de desenvolupadors d'Apple.
 
-### All-in-One Installers
+### Instal·ladors Tot-en-Un
 
-The solutions listed above mainly handle PHP itself, and do not supply things like Apache, Nginx or a SQL server.
-"All-in-one" solutions such as [MAMP][mamp-downloads] and [XAMPP][xampp] will install these other bits of software for
-you and tie them all together, but ease of setup comes with a trade-off of flexibility.
+Les solucions esmentades anteriorment manegen principalment PHP únicament i no proporcionen coses com Apache, Nginx o un
+servidor SQL. Solucions "Tot-en-un" com [MAMP][mamp-downloads] i [XAMPP][xampp] instal·len aquests altres programes i
+els configura entre ells. De totes maneres la facilitat que aporta potser no compensa amb la poca flexibilitat que
+ofereixen.
 
 
 [Homebrew]: http://brew.sh/
