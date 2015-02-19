@@ -1,5 +1,6 @@
 ---
+title: Seguretat
 anchor: security
 ---
 
-# Security {#security_title}
+# Seguretat {#security_title}
