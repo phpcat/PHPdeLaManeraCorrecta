@@ -702,7 +702,7 @@ kbd {
   background-clip: padding-box;
   margin: 0 2px;
   padding: 0 5px;
-  font-family: Consolas, "Courier New", Courier, mono;
+  font-family: Menlo, Consolas, "Courier New", Courier, mono;
   font-size: 12.6px;
   color: #666666;
   word-wrap: break-word;
