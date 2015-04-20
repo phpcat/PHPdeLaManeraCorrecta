@@ -1,5 +1,7 @@
 ---
+title: Característiques del llenguatge
 anchor: language_highlights
 ---
 
-# Language Highlights {#language_highlights_title}
+# Característiques del llenguatge {#language_highlights_title}
+
