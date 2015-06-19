@@ -1,4 +1,8 @@
---- title:   Configuració per Windows isChild: true anchor:  windows_setup ---
+---
+title:   Configuració per Windows
+isChild: true
+anchor:  windows_setup
+---
 
 ## Configuració per Windows {#windows_setup_title}
 
