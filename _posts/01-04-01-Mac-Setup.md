@@ -36,17 +36,17 @@ I pots escriure la comanda `select` per canviar entre les teves versions actives
 [phpbrew] és una eina per a la instal·lació i gestió de múltiples versions de PHP. Això pot ser molt útil si dos
 [aplicacions / projectes diferents, requereixen diferents versions de PHP, i no s'estan utilitzant màquines virtuals.
 
-### Instal·lar PHP amb phpbrew Another popular option is [php-osx.liip.ch] which provides one liner installation methods
-for versions 5.3 through 5.6. It doesn't overwrite the php binaries installed by Apple, but installs everything in a
-separate location (/usr/local/php5).
 
+### Instal·lar PHP desde els binaris Liip
 
-### Instal·lar PHP desde els binaris Liip Una altra opció popular és [php-osx.liip.ch], la qual proporciona una
+Una altra opció popular és [php-osx.liip.ch], la qual proporciona una
 instal·lació empaquetada per les versions 5.3 fins la 5.6. Funciona independentment dels binaris que instal·la Apple
 (/usr/local/php5).
 
 
-### Compilar des del codi font Una altra opció que et deixa tenir control sobre la versió de PHP que s'instal·la, és
+### Compilar des del codi font
+
+Una altra opció que et deixa tenir control sobre la versió de PHP que s'instal·la, és
 [compilar-la tu mateix][mac- compile]. En aquest cas, assegura't d'haver instal·lat qualsevol [Xcode][xcode-gcc-
 substitution] o substitut d'Apple ["Eines de línia d'ordres per XCode"] descarregables des del Centre de desenvolupadors
 d'Apple.
