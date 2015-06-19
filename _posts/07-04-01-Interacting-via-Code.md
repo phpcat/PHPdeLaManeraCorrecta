@@ -54,7 +54,9 @@ $db = new PDO('mysql:host=localhost;dbname=testdb;charset=utf8', 'username', 'pa
 include 'models/FooModel.php';
 
 // Create an instance
-$fooList = new FooModel($db);
+$fooModel = new FooModel($db);
+// Get the list of Foos
+$fooList = $fooModel->getAllFoos();
 
 // Show the view
 include 'views/foo-list.php';
@@ -65,7 +67,7 @@ include 'views/foo-list.php';
 
 {% highlight php %}
 <?php
-class FooModel()
+class FooModel
 {
     protected $db;
 

@@ -20,7 +20,7 @@ _PHP: de la Manera Correcta_ s'ha traduït als següents idiomes:
 
 * [Anglès](http://www.phptherightway.com)
 * [Búlgar](http://bg.phptherightway.com/)
-* [Xinès (Simplificat)](http://wulijun.github.com/php-the-right-way)
+* [Xinès (Simplificat)](http://laravel-china.github.io/php-the-right-way/)
 * [Xinès (Tradicional)](http://laravel-taiwan.github.io/php-the-right-way)
 * [Francès](http://eilgin.github.io/php-the-right-way/)
 * [Alemany](http://rwetzlmayr.github.io/php-the-right-way/)

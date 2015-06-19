@@ -1,13 +1,9 @@
----
-title:   Configuració per Windows
-isChild: true
-anchor:  windows_setup
----
+--- title:   Configuració per Windows isChild: true anchor:  windows_setup ---
 
 ## Configuració per Windows {#windows_setup_title}
 
-PHP està disponible en diverses formes per Windows. Podeu [descarregar els binaris][php-downloads] i fins fa poc es
-podia utilitzar un instal·lador .msi '. L'instal·lador ja no es manté i es deté en PHP 5.3.0.
+Podeu [descarregar els binaris][php-downloads]. Després de l'extracció de PHP, es recomana ajustar la [ruta][windows-
+path] a l'arrel de la carpeta de PHP (on es troba php.exe) perquè pugui executar PHP des de qualsevol lloc.
 
 Per l'aprenentatge i el desenvolupament local pots utilitzar el servidor enpaquetat amb PHP 5.4+ perquè no necessitaràs
 preocupar-te de la configuració del mateix. Si prefereixes un "tot-en-un" que inclou un servidor web amb tota regla i
@@ -22,10 +18,7 @@ llest per funcionar, només has de configurar PHP com a gestor. Per a suport i r
 dedicada a iis.net][php-iis] per a PHP.
 
 
-[php-downloads]: http://windows.php.net
-[wpi]: http://www.microsoft.com/web/downloads/platform.aspx
-[xampp]: http://www.apachefriends.org/en/xampp.html
-[easyphp]: http://www.easyphp.org/
-[wamp]: http://www.wampserver.com/en/
-[phpmanager]: http://phpmanager.codeplex.com/
+[php-downloads]: http://windows.php.net/download/ windows-path]: http://www.windows-commandline.com/set-path-command-
+[line/ wpi]: http://www.microsoft.com/web/downloads/platform.aspx xampp]: http://www.apachefriends.org/en/xampp.html
+[easyphp]: http://www.easyphp.org/ wamp]: http://www.wampserver.com/en/ phpmanager]: http://phpmanager.codeplex.com/
 [php-iis]: http://php.iis.net/
