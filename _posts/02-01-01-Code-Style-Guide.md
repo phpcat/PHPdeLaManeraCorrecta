@@ -1,48 +1,39 @@
 ---
+title: Guia d'estil del codi
 anchor: code_style_guide
 ---
 
-# Code Style Guide {#code_style_guide_title}
+# Guia d'estil del codi {#code_style_guide_title}
 
-The PHP community is large and diverse, composed of innumerable libraries, frameworks, and components. It is common for
-PHP developers to choose several of these and combine them into a single project. It is important that PHP code adhere
-(as close as possible) to a common code style to make it easy for developers to mix and match various libraries for
-their projects.
+La comunitat de PHP és gran i diversa, composta per una infinitat de biblioteques (libraries), marcs de treball (frameworks), i components. És habitual pels desenvolupadors de PHP el fet d'escollir molts d'aquests i combinar-los en un sol projecte.
 
-The [Framework Interop Group][fig] has proposed and approved a series of style recommendations. Not all of them related
-to code-style, but those that do are [PSR-0][psr0], [PSR-1][psr1], [PSR-2][psr2] and [PSR-4][psr4]. These
-recommendations are merely a set of rules that some projects like Drupal, Zend, Symfony, CakePHP, phpBB, AWS SDK,
-FuelPHP, Lithium, etc are starting to adopt. You can use them for your own projects, or continue to use your own
-personal style.
+Per això és important que el codi PHP s'adhereixi (el més a prop possible) a un estil de codi comú perquè es faciliti el treball dels desenvolupadors en combinar una varietat de llibreries per als seus projectes.
 
-Ideally you should write PHP code that adheres to a known standard. This could be any combination of PSR's, or one
-of the coding standards made by PEAR or Zend. This means other developers can easily read and work with your code, and
-applications that implement the components can have consistency even when working with lots of third-party code.
+El [Framework Interop Group][fig] ha proposat i aprovat una sèrie de recomanacions d'estil. No totes elles relacionades amb l'estil de codi, però les que ho són: [PSR-0][psr0], [PSR-1][psr1], [PSR-2][psr2] i [PSR-4][psr4]. Aquestes recomanacions són merament un conjunt de regles que a alguns projectes com Drupal, Zend, Symfony, CakePHP, phpBB, AWS SDK,
+FuelPHP, Lithium, etc comencen a adoptar. Podeu utilitzar-les pels vostres projectes o continuar amb les vostres propies guies d'estil de codi.
 
-* [Read about PSR-0][psr0]
-* [Read about PSR-1][psr1]
-* [Read about PSR-2][psr2]
-* [Read about PSR-4][psr4]
-* [Read about PEAR Coding Standards][pear-cs]
-* [Read about Symfony Coding Standards][symfony-cs]
+Idealment hauríeu d'escriure codi PHP seguint un estàndard reconegut. Podria ser una combinació dels estàndards PSR's o algun dels estàndards creats per PEAR o Zend. Seguint aquests estàndards aconseguirem que altres desenvolupadors puguin de manera senzilla llegir el teu codi i aplicacions que implementin components, ja que tindran consistència encara que implementin codi de tercers.
 
-You can use [PHP_CodeSniffer][phpcs] to check code against any one of these recommendations, and plugins for text
-editors like [Sublime Text 2][st-cs] to be given real time feedback.
+* [Llegir sobre PSR-0][psr0]
+* [Llegir sobre PSR-1][psr1]
+* [Llegir sobre PSR-2][psr2]
+* [Llegir sobre PSR-4][psr4]
+* [Llegir sobre PEAR Coding Standards][pear-cs]
+* [Llegir sobre Symfony Coding Standards][symfony-cs]
 
-You can fix the code layout automatically by using one of the two following tools. One is the [PHP Coding Standards Fixer][phpcsfixer] which has a very well tested codebase. 
-Another option is [php.tools][phptools], which is made popular by the [sublime-phpfmt][sublime-phpfmt] editor plugin. While being newer, it makes great improvements in performance, meaning real-time editor fixing is more fluid.
+Podeu utilitzar [PHP_CodeSniffer][phpcs] per comprovar si el vostre codi segueix alguna d'aquestes recomanacions i també podeu fer servir connectors (plugins) per tenir editors com [Sublime Text 2][st-cs] llest per detectar-los.
 
-And you can run phpcs manually from shell:
+També podeu utilitzar una d'aquestes dues eines per arreglar de manera automàtica l'estil del codi. La primera és [PHP Coding Standards Fixer][phpcsfixer], la qual està molt provada. L'altre és [php.tools][phptools], que s'ha fet molt popular pels usuaris de [sublime-phpfmt][sublime-phpfmt]. 
+
+Podeu executar phpcs manualment des de la vostra consola:
 
     phpcs -sw --standard=PSR2 file.php
 
-It will show errors and descriptions how to fix them.
-It can also be helpful to include this command in a git hook.
-That way branches which contain violations against the chosen standard cannot enter the repository
-until those violations have been fixed.
+Us mostrarà els errors i les descripcions de com arreglar-los.
+Seria de molt bona ajuda pels vostres projectes si ho teniu configurat per executar-se des de un git hook.
+D'aquesta manera no permetríem que entrés codi al repositori que violés els estàndards que hem definit pel projecte..
 
-English is preferred for all symbol names and code infrastructure. Comments may be written in any language easily
-readable by all current and future parties who may be working on the codebase.
+Els símbols i infraestructures de codi hauran de fer-se amb anglès. Els comentaris podran ser escrits amb altres idiomes.
 
 
 [fig]: http://www.php-fig.org/
