@@ -1,53 +1,45 @@
 ---
 isChild: true
+title: Paradigmes de programació
 anchor:  programming_paradigms
 ---
 
-## Programming Paradigms {#programming_paradigms_title}
+## Paradigmes de programació {#programming_paradigms_title}
 
-PHP is a flexible, dynamic language that supports a variety of programming techniques. It has evolved dramatically over
-the years, notably adding a solid object-oriented model in PHP 5.0 (2004), anonymous functions and namespaces in
-PHP 5.3 (2009), and traits in PHP 5.4 (2012).
+PHP és un llenguatge de programació flexible i dinàmic que permet aplicar una varietat de tècniques de programació. Ha evolucionat de forma molt positiva amb els anys adaptant-se a la programació orientada a objectes amb la versió de PHP 5.0 (2004), funcions anònimes i els namespaces amb la versió de PHP 5.3 (2009) o finalment amb els traits a la versió 5.4 (2012).
 
-### Object-oriented Programming
+### Programació Orientada a Objectes
 
-PHP has a very complete set of object-oriented programming features including support for classes, abstract classes,
-interfaces, inheritance, constructors, cloning, exceptions, and more.
+PHP té un conjunt molt complet d'aspectes que faciliten la programació orientada a objectes com ara: classes, classes abstractes, interfícies, herència, constructors, clonació, excepcions i d'altres.
 
-* [Read about Object-oriented PHP][oop]
-* [Read about Traits][traits]
+* [Llegir sobre Object-oriented PHP][oop]
+* [Llegir sobre Traits][traits]
 
-### Functional Programming
+### Programació funcional
 
-PHP supports first-class functions, meaning that a function can be assigned to a variable. Both user-defined and
-built-in functions can be referenced by a variable and invoked dynamically. Functions can be passed as arguments to
-other functions (a feature called _Higher-order Functions_) and functions can return other functions.
+PHP té la capacitat de declarar funcions de primera classe, és a dir, una funció pot ser assignada a una variable. Les funcions definides per l'usuari, així com les funcions internes (incloses), tenen l'habilitat de ser referenciades per una variable i invocades dinàmicament. Les funcions poden ser passades com a arguments a altres funcions (un aspecte anomenat _funcions d'ordre superior_) i funcions poden retornar altres funcions.
 
-Recursion, a feature that allows a function to call itself, is supported by the language, but most PHP code
-is focused on iteration.
+La recursivitat és un aspecte que li permet a una funció a cridar-se a si mateixa. El llenguatge PHP habilita aquest tipus d'algorismes, no obstant això, la majoria del codi PHP s'enfoca en iteració.
 
-New anonymous functions (with support for closures) are present since PHP 5.3 (2009).
+Les funcions anònimes (amb suport per closures) estan presents en PHP des de la versió 5.3 (2009).
 
-PHP 5.4 added the ability to bind closures to an object's scope and also improved support for callables such that they
-can be used interchangeably with anonymous functions in almost all cases.
+A la versió de PHP 5.4 es va afegir l'habilitat per vincular _closure_ a l'àmbit d'un objecte i també es va millorar el suport de funcions de tipus _callable_ perquè puguin intercanviar-se amb funcions anònimes en gairebé tots els casos.
 
-* Continue reading on [Functional Programming in PHP](/pages/Functional-Programming.html)
-* [Read about Anonymous Functions][anonymous-functions]
-* [Read about the Closure class][closure-class]
-* [More details in the Closures RFC][closures-rfc]
-* [Read about Callables][callables]
-* [Read about dynamically invoking functions with `call_user_func_array()`][call-user-func-array]
+* Seguiu llegint [Functional Programming in PHP](/pages/Functional-Programming.html)
+* [Llegir sobre Anonymous Functions][anonymous-functions]
+* [Llegir sobre the Closure class][closure-class]
+* [Més detellas a the Closures RFC][closures-rfc]
+* [Llegir sobre Callables][callables]
+* [Llegir sobre dynamically invoking functions with `call_user_func_array()`][call-user-func-array]
 
-### Meta Programming
+### Meta Programació
 
-PHP supports various forms of meta-programming through mechanisms like the Reflection API and Magic Methods. There are
-many Magic Methods available like `__get()`, `__set()`, `__clone()`, `__toString()`, `__invoke()`, etc. that allow
-developers to hook into class behavior. Ruby developers often say that PHP is lacking `method_missing`, but it is
-available as `__call()` and `__callStatic()`.
+PHP suporta diverses maneres de meta programació per mitjà de mecanismes com l'API de Reflexió i els Mètodes Màgics com ara: `__get()`, `__set()`, `__clone()`, `__toString()`, `__invoke()`, etc.
+Amb aquests mètodes podreu connectar-vos amb el funcionament de la classe. Sovint, desenvolupadors amb Ruby diuen que a PHP li falta la funció de `method_missing`, no obstant això, els aspectes d'aquesta funció estan disponibles amb `__call()` and `__callStatic()`.
 
-* [Read about Magic Methods][magic-methods]
-* [Read about Reflection][reflection]
-* [Read about Overloading][overloading]
+* [Llegir sobre Magic Methods][magic-methods]
+* [Llegir sobre Reflection][reflection]
+* [Llegir sobre Overloading][overloading]
 
 
 [oop]: http://php.net/language.oop5
