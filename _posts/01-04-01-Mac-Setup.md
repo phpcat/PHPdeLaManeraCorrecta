@@ -51,8 +51,7 @@ instal·lació empaquetada per les versions 5.3 fins la 5.6. Funciona independen
 ### Compilar des del codi font
 
 Una altra opció que et deixa tenir control sobre la versió de PHP que s'instal·la, és
-[compilar-la tu mateix][mac- compile]. En aquest cas, assegura't d'haver instal·lat qualsevol [Xcode][xcode-gcc-
-substitution] o substitut d'Apple ["Eines de línia d'ordres per XCode"] descarregables des del Centre de desenvolupadors
+[compilar-la tu mateix][mac-compile]. En aquest cas, assegura't d'haver instal·lat qualsevol [Xcode][xcode-gcc-substitution] o substitut d'Apple ["Eines de línia d’ordres per XCode"] descarregables des del Centre de desenvolupadors
 d'Apple.
 
 ### Instal·ladors Tot-en-Un
@@ -63,9 +62,14 @@ els configura entre ells. De totes maneres la facilitat que aporta potser no com
 ofereixen.
 
 
-[Homebrew]: http://brew.sh/ Homebrew PHP]: https://github.com/Homebrew/homebrew-php#installation MacPorts]:
-[https://www.macports.org/install.php phpbrew]: https://github.com/phpbrew/phpbrew php-osx.liip.ch]: http://php-
-[osx.liip.ch/ mac-compile]: http://php.net/install.macosx.compile xcode-gcc-substitution]:
-[https://github.com/kennethreitz/osx-gcc-installer "Eines de línia d'ordres per XCode"]:
-[https://developer.apple.com/downloads mamp-downloads]: http://www.mamp.info/en/downloads/ xampp]:
-[http://www.apachefriends.org/en/xampp.html brew-php-switcher]: https://github.com/philcook/brew-php-switcher
+[Homebrew]: http://brew.sh/
+[Homebrew PHP]: https://github.com/Homebrew/homebrew-php#installation
+[MacPorts]: https://www.macports.org/install.php
+[phpbrew]: https://github.com/phpbrew/phpbrew
+[php-osx.liip.ch]: http://php-osx.liip.ch/
+[mac-compile]: http://php.net/install.macosx.compile
+[xcode-gcc-substitution]: https://github.com/kennethreitz/osx-gcc-installer
+["Eines de línia d’ordres per XCode"]: https://developer.apple.com/downloads
+[mamp-downloads]: http://www.mamp.info/en/downloads/
+[xampp]: http://www.apachefriends.org/en/xampp.html
+[brew-php-switcher]: https://github.com/philcook/brew-php-switcher
