@@ -2,17 +2,13 @@
 anchor: community
 ---
 
-# Community {#community_title}
+# Comunitat
 
-The PHP community is as diverse as it is large, and its members are ready and willing to support new PHP programmers.
-Consider joining your local PHP user group (PUG) or attending larger PHP conferences to learn more about the best
-practices shown here. You can hang out on IRC in the #phpc channel on [irc.freenode.com][php-irc] and follow the
-[@phpc][phpc-twitter] twitter account. Get out there, meet new developers, learn new topics, and above all, make new
-friends! Other community resources include the Google+ PHP [Programmer community][php-programmers-gplus] and
-[StackOverflow][php-so].
+La comunitat PHP és tan diversa com gran, i els seus membres estan preparats i disposats a donar suport als nous programadors de PHP. Uniu-vos a algun grup d'usuaris PHP (PUG) o assistiu a conferències de PHP per aprendre més sobre les bones pràctiques mostrades aquí. Podeu connectar-vos a l'IRC, al canal #phpc a [irc.freenode.com] [php-IRC] i seguir el compte de twitter [@phpc][phpc-twitter]. Trobeu nous desenvolupadors, apreneu nous temes, i sobretot, feu nous
+amics! Altres recursos de la comunitat inclouen el Google+ PHP [comunitat programador] [php-programadors-gplus] i
+[Stackoverflow] [php-so]
 
-[Read the Official PHP Events Calendar][php-calendar]
-
+[Llegeix el calendari oficial d'esdeveniments PHP][php-calendar]
 
 [php-irc]: http://webchat.freenode.net/?channels=phpc
 [phpc-twitter]: https://twitter.com/phpc
