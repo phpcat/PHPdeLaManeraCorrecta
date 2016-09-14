@@ -3,15 +3,10 @@ isChild: true
 anchor:  design_patterns
 ---
 
-## Design Patterns {#design_patterns_title}
+## Patrons de disseny
 
-When you are building your application it is helpful to use common patterns in your code and common patterns for the
-overall structure of your project. Using common patterns is helpful because it makes it much easier to manage your code
-and lets other developers quickly understand how everything fits together.
+Quan desenvolupem una aplicació és molt convnient fer ús de patrons comuns al nostre codi i patrons per a l'estructura general del nostre projecte. Fent ús de patrons comuns és d'ajuda perquè fa molt més fàcil gestionar el teu codi i permet a altres desenvolupadors entendre fàcilment com encaixa tot.
 
-If you use a framework then most of the higher level code and project structure will be based on that framework, so a
-lot of the pattern decisions are made for you. But it is still up to you to pick out the best patterns to follow in the
-code you build on top of the framework. If, on the other hand, you are not using a framework to build your application
-then you have to find the patterns that best suit the type and size of application that you're building.
+Si fas ús d'un framework per al desenvolupament del teu projecte, llavors la major part del teu codi d'alt nivell estarà basat en aquest framework, de tal manera que moltes de les decisions ja han estat preses pels desenvolupadors del framework. Però encara depèn de tu escollir els millors patrons a seguir en el codi desenvolupat per tu sobre el framework. Si, d'altra banda, no fas ús d'un framework per desenvolupar la teva aplicació, llavors necessitaràs trobar els patrons que millor s'adaptin al tipus i mida del teu projecte.
 
-* Continue reading on [Design Patterns](/pages/Design-Patterns.html)
+* Continua llegint a [Design Patterns](pages/Design-Patterns.html)
