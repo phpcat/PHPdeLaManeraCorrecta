@@ -27,6 +27,8 @@ developers know where to find good information!
 
 ## How to Contribute
 
+You should read the `CONTRIBUTING.md` file for precise instructions and tips. But, if you prefer a TL;DR:
+
 1. Fork and edit
 2. Optionally install [Ruby](https://rvm.io/rvm/install/) with [Jekyll](https://github.com/mojombo/jekyll/) gem to preview locally
 3. Submit pull request for consideration
@@ -54,15 +56,16 @@ developers know where to find good information!
 * [Korean](http://modernpug.github.io/php-the-right-way)
 * [Persian](http://novid.github.io/php-the-right-way/)
 * [Polish](http://pl.phptherightway.com)
-* [Portuguese](http://br.phptherightway.com)
+* [Portuguese (Brazil)](http://br.phptherightway.com)
 * [Romanian](https://bgui.github.io/php-the-right-way/)
 * [Russian](http://getjump.github.io/ru-php-the-right-way)
-* [Serbian](http://smatejic.github.io/php-the-right-way/)
+* [Serbian](http://phpsrbija.github.io/php-the-right-way/)
 * [Slovenian](http://sl.phptherightway.com)
 * [Spanish](http://phpdevenezuela.github.io/php-the-right-way)
 * [Thai](https://apzentral.github.io/php-the-right-way/)
 * [Turkish](http://hkulekci.github.io/php-the-right-way/)
 * [Ukrainian](http://iflista.github.com/php-the-right-way)
+* [العربية](https://adaroobi.github.io/php-the-right-way/)
 
 ### Translations
 

@@ -21,8 +21,17 @@ Si necessites un entorn estable de producció amb Windows, pots utilitzar IIS7. 
 llest per funcionar, només has de configurar PHP com a gestor. Per a suport i recursos addicionals hi ha una [zona
 dedicada a iis.net][php-iis] per a PHP.
 
+En general, executar les teves aplicacions en entorns diferents entre el de desenvolupament i el de producció pot donar lloc a errors causats per la diferència d'aquests dos. Si està desenvolupant en Windows i la implementació és per a Linux (o qualsevol cosa que no sigui Windows), llavors hauria de considerar l'ús d'un [Màquina Virtual] (/ # virtualization_title).
 
-[php-downloads]: http://windows.php.net/download/ windows-path]: http://www.windows-commandline.com/set-path-command-
-[line/ wpi]: http://www.microsoft.com/web/downloads/platform.aspx xampp]: http://www.apachefriends.org/en/xampp.html
-[easyphp]: http://www.easyphp.org/ wamp]: http://www.wampserver.com/en/ phpmanager]: http://phpmanager.codeplex.com/
+Chris Tankersley té un bloc molt útil on explica les seves eines per [el desenvolupament de PHP sobre Windows] [windows-tools].
+
+[easyphp]: http://www.easyphp.org/
+[phpmanager]: http://phpmanager.codeplex.com/
+[openserver]: http://open-server.ru/
+[wamp]: http://www.wampserver.com/en/
+[php-downloads]: http://windows.php.net/download/
 [php-iis]: http://php.iis.net/
+[windows-path]: http://www.windows-commandline.com/set-path-command-line/
+[windows-tools]: http://ctankersley.com/2016/11/13/developing-on-windows-2016/
+[wpi]: http://www.microsoft.com/web/downloads/platform.aspx
+[xampp]: http://www.apachefriends.org/en/xampp.html

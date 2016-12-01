@@ -34,6 +34,7 @@ if (password_verify('bad-password', $passwordHash)) {
 }
 {% endhighlight %}  
 
+s'encarrega del "salt" de la contrasenya per tu. El "salt" s'emmagatzema durant el transcurs de l'algoritme i té el cost com a part del "hash". 'password_verify()' extreu aquest per determinar com s'ha de comprovar la contrasenya, llavors no necessites separar el camp de la base de dades per emmagatzemar els "salts" 
 
 * [Per saber més sobre `password_hash()`] [1] (en anglès)
 * [`password_compat` per PHP >= 5.3.7 && < 5.5] [2] (en anglès)
@@ -45,3 +46,4 @@ if (password_verify('bad-password', $passwordHash)) {
 [2]: https://github.com/ircmaxell/password_compat
 [3]: http://en.wikipedia.org/wiki/Cryptographic_hash_function
 [4]: https://wiki.php.net/rfc/password_hash
+[5]: https://en.wikipedia.org/wiki/Salt_(cryptography)

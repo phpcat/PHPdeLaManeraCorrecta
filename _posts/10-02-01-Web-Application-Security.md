@@ -13,3 +13,4 @@ Hi ha gent maliciosa preparada i disposada a rebentar la teva aplicació web. É
 
 [1]: https://www.owasp.org/
 [2]: https://www.owasp.org/index.php/Guide_Table_of_Contents
+[3]: http://phpsecurity.readthedocs.org/en/latest/index.html

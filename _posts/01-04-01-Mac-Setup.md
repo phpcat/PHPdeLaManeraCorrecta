@@ -16,7 +16,7 @@ Hi ha diverses maneres d'instal·lar PHP a l'OS X.
 [Homebrew] és un gestor de paquets per OS X, que et pot ajudar a instal·lar PHP i diverses extensions fàcilment.
 [Homebrew PHP] és un repositori que conté fitxers per Homebrew relacionats amb PHP, i també et permetrà instal·lar PHP.
 
-En aquest punt, pots instal·lar `php53`, `php54`, `php55` o `php56` escrivint la comanda `brew install`, i podràs
+En aquest punt, pots instal·lar `php53`, `php54`, `php55` , `php56` o `php70` escrivint la comanda `brew install`, i podràs
 canviar entre les versions modificant la variable `PATH`. També es pot fer amb [brew-php-switcher][brew-php-switcher].
 
 ### Instal·lar PHP amb Macports
@@ -27,13 +27,14 @@ instal·lar i actualitzar qualsevol programari de línia d'ordres, X11 o Aqua pe
 MacPorts suporta binaris pre-compilats, per la qual cosa no cal tornar a compilar totes les dependències del codi font
 original, et salvarà la vida si no tens els paquets instal·lats al teu sistema.
 
-En aquest punt, pots instal·lar `php53`, `php54`, `php55` o `php56` escrivint la comanda `port install`, per exemple:
+En aquest punt, pots instal·lar `php53`, `php54`, `php55`, `php56` o `php70` escrivint la comanda `port install`, per exemple:
 
-    sudo port install php54 sudo port install php55
+    sudo port install php56
+    sudo port install php70
 
 I pots escriure la comanda `select` per canviar entre les teves versions actives de php:
 
-    sudo port select --set php php55
+    sudo port select --set php php70
 
 ### Instal·lar PHP amb phpbrew
 
@@ -44,7 +45,7 @@ I pots escriure la comanda `select` per canviar entre les teves versions actives
 ### Instal·lar PHP desde els binaris Liip
 
 Una altra opció popular és [php-osx.liip.ch], la qual proporciona una
-instal·lació empaquetada per les versions 5.3 fins la 5.6. Funciona independentment dels binaris que instal·la Apple
+instal·lació empaquetada per les versions 5.3 fins la 7.0. Funciona independentment dels binaris que instal·la Apple
 (/usr/local/php5).
 
 

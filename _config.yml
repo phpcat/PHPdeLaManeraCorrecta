@@ -1,4 +1,5 @@
 baseurl: /
+highlighter: rouge
 markdown: kramdown
 permalink: date
 maruku:
@@ -18,4 +19,6 @@ defaults:
       values:
           sitemap: false
 
-exclude: ['CNAME', 'CONTRIBUTING.md', 'LICENSE', 'README.md', 'pages/example.md']
+exclude: ['CNAME', 'CONTRIBUTING.md', 'LICENSE', 'README.md', 'pages/example.md', 'vendor']
+
+future: true

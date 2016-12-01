@@ -39,6 +39,7 @@ _PHP: de la Manera Correcta_ s'ha traduït als següents idiomes:
 * [Tailandès](https://apzentral.github.io/php-the-right-way/)
 * [Turc](http://hkulekci.github.io/php-the-right-way/)
 * [Ucraïnès](http://iflista.github.com/php-the-right-way/)
+* [العربية](https://adaroobi.github.io/php-the-right-way/)
 
 ## Com contribuir-hi
 
