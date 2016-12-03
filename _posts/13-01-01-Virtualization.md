@@ -2,13 +2,8 @@
 anchor: virtualization
 ---
 
-# Virtualization {#virtualization_title}
+# Virtualització {#virtualization_title}
 
-Running your application on different environments in development and production can lead to strange bugs popping up
-when you go live. It's also tricky to keep different development environments up to date with the same version for all
-libraries used when working with a team of developers.
+Executar la teva aplicació a un entorn de desenvolupament diferent del de producció pot provocar estranys errors al sortir a producció. També és complicat mantenir actualitzats al dia diferents entorns de desenvolupament amb les mateixes versions per a totes les llibraries utilitzades quan es treballa en un equip de desenvolupadors.
 
-If you are developing on Windows and deploying to Linux (or anything non-Windows) or are developing in a team, you
-should consider using a virtual machine. This sounds tricky, but besides the widely known virtualization environments
-like VMware or VirtualBox, there are additional tools that may help you setting up a virtual environment in a few easy
-steps.
+Si estàs desenvolupant amb Windows i desplegant/instal·lant a Linux (o qualsevol sistema que no sigui Windows) o estàs desenvolupant en un equip, hauries de plantejar-te l'ús d'una màquina virtual. Potser sona més complicat, però és que a més de la gran quantitat d'entorns de virtualització coneguts com VMware o VirtualBox, hi ha eines addicionals que et poden ajudar a configurar un entorn virtual en pocs passos.
