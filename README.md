@@ -4,7 +4,7 @@
 
 ## Com participar-hi?
 
-Els apartats pendents de traduir els trobareu en [aquesta plana](https://github.com/phpcat/PHPdeLaManeraCorrecta/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee). Penseu de ser expeditius: Assigneu-vos el issue de l'apartat que voleu traduir i que no estigui assignat a ningú, traduïu l'apartat en qüestió, feu push o pull request i tanqueu el issue. 
+Els apartats pendents de traduir els trobareu en [aquesta plana](https://github.com/phpcat/PHPdeLaManeraCorrecta/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee). Penseu de ser expeditius: Assigneu-vos el issue de l'apartat que voleu traduir i que no estigui assignat a ningú, traduïu l'apartat en qüestió, feu push o pull request i tanqueu el issue.
 
 Si no formeu part del grup del projecte de traducció demaneu formar-ne part creant un issue en aquest projecte, hi ha plaç fins el 28 de febrer del 2015. Posteriorment, feu un fork i un pull request.
 
@@ -45,27 +45,27 @@ You should read the `CONTRIBUTING.md` file for precise instructions and tips. Bu
 <http://www.phptherightway.com>
 
 * [English](http://www.phptherightway.com)
-* [Bulgarian](http://bg.phptherightway.com)
-* [Chinese (Simplified)](http://laravel-china.github.io/php-the-right-way/)
-* [Chinese (Traditional)](http://laravel-taiwan.github.io/php-the-right-way)
-* [French](http://eilgin.github.io/php-the-right-way/)
-* [German](http://rwetzlmayr.github.io/php-the-right-way)
-* [Indonesian](http://id.phptherightway.com)
-* [Italian](http://it.phptherightway.com)
-* [Japanese](http://ja.phptherightway.com)
-* [Korean](http://modernpug.github.io/php-the-right-way)
-* [Persian](http://novid.github.io/php-the-right-way/)
-* [Polish](http://pl.phptherightway.com)
-* [Portuguese (Brazil)](http://br.phptherightway.com)
-* [Romanian](https://bgui.github.io/php-the-right-way/)
-* [Russian](http://getjump.github.io/ru-php-the-right-way)
-* [Serbian](http://phpsrbija.github.io/php-the-right-way/)
-* [Slovenian](http://sl.phptherightway.com)
-* [Spanish](http://phpdevenezuela.github.io/php-the-right-way)
-* [Thai](https://apzentral.github.io/php-the-right-way/)
-* [Turkish](http://hkulekci.github.io/php-the-right-way/)
-* [Ukrainian](http://iflista.github.com/php-the-right-way)
+* [Deutsch](http://rwetzlmayr.github.io/php-the-right-way)
+* [Español](http://phpdevenezuela.github.io/php-the-right-way)
+* [Français](http://eilgin.github.io/php-the-right-way/)
+* [Indonesia](http://id.phptherightway.com)
+* [Italiano](http://it.phptherightway.com)
+* [Polski](http://pl.phptherightway.com)
+* [Português do Brasil](http://br.phptherightway.com)
+* [Română](https://bgui.github.io/php-the-right-way/)
+* [Slovenščina](http://sl.phptherightway.com)
+* [Srpski](http://phpsrbija.github.io/php-the-right-way/)
+* [Türkçe](http://hkulekci.github.io/php-the-right-way/)
+* [български](http://bg.phptherightway.com)
+* [Русский язык](http://getjump.github.io/ru-php-the-right-way)
+* [Українська](http://iflista.github.com/php-the-right-way)
 * [العربية](https://adaroobi.github.io/php-the-right-way/)
+* [فارسى](http://novid.github.io/php-the-right-way/)
+* [ภาษาไทย](https://apzentral.github.io/php-the-right-way/)
+* [한국어판](http://modernpug.github.io/php-the-right-way)
+* [日本語](http://ja.phptherightway.com)
+* [简体中文](http://laravel-china.github.io/php-the-right-way/)
+* [繁體中文](http://laravel-taiwan.github.io/php-the-right-way)
 
 ### Translations
 
