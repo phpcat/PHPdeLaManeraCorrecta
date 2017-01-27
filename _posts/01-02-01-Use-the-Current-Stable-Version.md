@@ -1,14 +1,14 @@
 ---
-title:   Feu servir la versió estable actual (7.0)
+title:   Feu servir la versió estable actual (7.1)
 isChild: true
 anchor:  use_the_current_stable_version
 ---
 
-## Feu servir la versió estable actual (7.0) {#use_the_current_stable_version_title}
+## Feu servir la versió estable actual (7.1) {#use_the_current_stable_version_title}
 
-PHP ha afegit noves i potents [característiques](#language_highlights) als últims anys. Encara que la diferència de
-nombre de versió incremental entre 5.2 i 5.6 és petita, representa millores _importants_. Si estàs buscant una funció o el seu ús, a la documentació de [php.net][php-docs] trobaràs la resposta.
+Si acabeu d'entrar en el món de PHP, comenceu a usar la versió 7.1 que és l'actual i estable. Millora exponencialment respecte a les versions anteriors com la 5.
+Afegeix [característiques](#language_highlights) espectaculars.
 
 [php-release]: http://php.net/downloads.php
 [php-docs]: http://php.net/manual/
-[php70-bc]: http://php.net/manual/migration70.incompatible.php
+[php71-bc]: http://php.net/manual/migration71.incompatible.php

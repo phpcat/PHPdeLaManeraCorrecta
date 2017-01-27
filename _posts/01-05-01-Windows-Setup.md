@@ -33,5 +33,5 @@ Chris Tankersley té un bloc molt útil on explica les seves eines per [el desen
 [php-iis]: http://php.iis.net/
 [windows-path]: http://www.windows-commandline.com/set-path-command-line/
 [windows-tools]: http://ctankersley.com/2016/11/13/developing-on-windows-2016/
-[wpi]: http://www.microsoft.com/web/downloads/platform.aspx
+[wpi]: https://www.microsoft.com/web/downloads/platform.aspx
 [xampp]: http://www.apachefriends.org/en/xampp.html

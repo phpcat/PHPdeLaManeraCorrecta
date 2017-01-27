@@ -6,8 +6,8 @@ anchor:  mac_setup
 
 ## Configuració per Mac {#mac_setup_title}
 
-El sistema OS X ve prèviament configurat amb una versió de PHP que no és l'actual. El sistema Mountain Lion ve
-configurat amb PHP 5.3.10, el sistema Mavericks amb la versió 5.4.17 i el sistema Yosemite amb l'versió 5.5.9.
+El sistema OS X ve prèviament configurat amb una versió de PHP que no és l'actual. El sistema Sierra ve
+configurat amb PHP 5.6.24, però sabent que la versió actual és la 7.1, no és suficient.
 
 Hi ha diverses maneres d'instal·lar PHP a l'OS X.
 
@@ -16,8 +16,8 @@ Hi ha diverses maneres d'instal·lar PHP a l'OS X.
 [Homebrew] és un gestor de paquets per OS X, que et pot ajudar a instal·lar PHP i diverses extensions fàcilment.
 [Homebrew PHP] és un repositori que conté fitxers per Homebrew relacionats amb PHP, i també et permetrà instal·lar PHP.
 
-En aquest punt, pots instal·lar `php53`, `php54`, `php55` , `php56` o `php70` escrivint la comanda `brew install`, i podràs
-canviar entre les versions modificant la variable `PATH`. També es pot fer amb [brew-php-switcher][brew-php-switcher].
+En aquest punt, pots instal·lar `php53`, `php54`, `php55`, `php56`, `php70` o `php71` escrivint la comanda `brew install`, i podràs
+canviar entre les versions modificant la variable `PATH`.
 
 ### Instal·lar PHP amb Macports
 
@@ -27,14 +27,14 @@ instal·lar i actualitzar qualsevol programari de línia d'ordres, X11 o Aqua pe
 MacPorts suporta binaris pre-compilats, per la qual cosa no cal tornar a compilar totes les dependències del codi font
 original, et salvarà la vida si no tens els paquets instal·lats al teu sistema.
 
-En aquest punt, pots instal·lar `php53`, `php54`, `php55`, `php56` o `php70` escrivint la comanda `port install`, per exemple:
+En aquest punt, pots instal·lar `php53`, `php54`, `php55`, `php56`, `php70` o `php71` escrivint la comanda `port install`, per exemple:
 
     sudo port install php56
-    sudo port install php70
+    sudo port install php71
 
 I pots escriure la comanda `select` per canviar entre les teves versions actives de php:
 
-    sudo port select --set php php70
+    sudo port select --set php php71
 
 ### Instal·lar PHP amb phpbrew
 
